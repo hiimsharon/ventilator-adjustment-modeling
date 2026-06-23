@@ -1,23 +1,40 @@
+# Data
 data/
 raw_data/
 processed_data/
-logs/
-models/
-checkpoints/
-temp/
-old_versions/
+*.csv
+*.xlsx
+*.xls
 
+# Model files
 *.pt
 *.pth
 *.h5
+*.keras
 *.pkl
 *.joblib
 
-*.csv
-*.xlsx
-!results_summary/**/*.csv
-!results_summary/**/*.xlsx
+# Logs and checkpoints
+logs/
+log/
+checkpoints/
+checkpoint/
+runs/
+tensorboard/
 
-.ipynb_checkpoints/
+# Python
 __pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# System
 .DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+old_versions/
