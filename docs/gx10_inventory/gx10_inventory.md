@@ -1,6 +1,6 @@
 # GX10 Jupyter Inventory
 
-Generated at: 西元2026年06月24日 (週三) 02時03分08秒 CST
+Generated at: 西元2026年06月24日 (週三) 02時04分01秒 CST
 
 ## Top-level directories
 ```
@@ -611,9 +611,10 @@ Generated at: 西元2026年06月24日 (週三) 02時03分08秒 CST
 位於分支 main
 您的分支與上游分支 'origin/main' 一致。
 
-未追蹤的檔案:
-  （使用 "git add <檔案>..." 以包含要提交的內容）
-	docs/
+尚未暫存以備提交的變更：
+  （使用 "git add <檔案>..." 更新要提交的內容）
+  （使用 "git restore <檔案>..." 捨棄工作區的改動）
+	修改：     docs/gx10_inventory/gx10_inventory.md
 
-提交為空，但是存在尚未追蹤的檔案（使用 "git add" 建立追蹤）
+修改尚未加入提交（使用 "git add" 和/或 "git commit -a"）
 ```
